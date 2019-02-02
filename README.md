@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# WITAJ NA MOJEJ STRONIE WIZYTÓWCE
 
 You can use the [editor on GitHub](https://github.com/wsbfrontendwroclaw/mojaWizytowka/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
